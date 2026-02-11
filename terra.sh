@@ -39,7 +39,7 @@ echo "  ./main.sh install   # Install Terraform (run once)"
 echo "  ./main.sh setup     # Create main.tf"
 echo "  ./main.sh init      # Terraform init"
 echo "  ./main.sh apply     # Terraform apply"
-exit 1
+# exit 1
 
 
 
