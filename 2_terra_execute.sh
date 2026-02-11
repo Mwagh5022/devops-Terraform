@@ -1,3 +1,4 @@
+#!/bin/bash
 # Create Terraform File with content
 cat <<EOF > main.tf
 resource "random_string" "first" {
